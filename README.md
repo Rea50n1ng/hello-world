@@ -1,2 +1,4 @@
 # hello-world
-Most original start
+(Most original start)
+
+Just a new mind approaching data-science.
